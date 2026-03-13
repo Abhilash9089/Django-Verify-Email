@@ -389,6 +389,4 @@ After verification is successful, you might want to redirect the user to the log
 </p>
 
 
-> There is always room for improvements and new ideas, feel free to raise PR or Issues
-
 
